@@ -1,0 +1,23 @@
+{
+  "name": "example-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest-sonar": "^0.2.16",
+    "jest-sonar-reporter": "^2.0.0",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2"
+  }
+}

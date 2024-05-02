@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\thoma\Documents\Github\vitest-sonar-code-coverage\example-jest\test\math.test.ts">
+    <testCase name="math add" duration="2"/>
+    <testCase name="math subtract" duration="1"/>
+    <testCase name="math multiply" duration="0"/>
+    <testCase name="math switch statemenet with default" duration="0"/>
+    <testCase name="math branch &gt; 1 (i.e. condition uses an || statement)" duration="1"/>
+  </file>
+</testExecutions>
